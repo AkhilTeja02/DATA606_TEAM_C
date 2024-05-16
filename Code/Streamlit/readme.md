@@ -35,3 +35,8 @@ streamlit run app.py
 4. Select the sector (finance or healthcare) from the sidebar.
 5. Choose the stock or sector for which you want to analyze sentiments and trends.
 6. Explore the data, visualizations, and sentiment analysis results in the Streamlit app interface.
+
+## Snippet of our interface
+
+https://github.com/adityakiran12/DATA606_TEAM_C/assets/40897103/b58d1089-5f2f-417a-b5d1-0e0cba69b8a2
+
