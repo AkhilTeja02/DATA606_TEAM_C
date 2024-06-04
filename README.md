@@ -12,7 +12,7 @@ Gain insights from social media - Social media platforms provide a vast amount o
 
 ### Research question: ​
 
-##### Finance Domain: Can sentiment analysis of social media posts about specific companies (Tesla, Nvidia, Apple) combined with financial data from Yfinance predict stock price movements for the following day?​
+#### Finance Domain: Can sentiment analysis of social media posts about specific companies (Tesla, Nvidia, Apple) combined with financial data from Yfinance predict stock price movements for the following day?​
 
 #### Healthcare Domain: Can NLP techniques be used to identify potentially signaling posts of anxiety and depression on social media platforms?​
 
